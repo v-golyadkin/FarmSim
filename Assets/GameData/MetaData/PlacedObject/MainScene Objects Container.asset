@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cdce1733e86bf7443b00c397b9a099e0, type: 3}
+  m_Name: MainScene Objects Container
+  m_EditorClassIdentifier: 
+  placeableObjects:
+  - placedItem: {fileID: 11400000, guid: 81f301c125bc39540965aece18ab47ff, type: 2}
+    targetObject: {fileID: 0}
+    positionOnGrid: {x: -2, y: 1, z: 0}
+    objectState: '{"itemSlot":{"item":{"instanceID":0},"count":0},"timer":0}'
+  - placedItem: {fileID: 11400000, guid: 31ba6a5f3e76cf94aad0655e854adfd3, type: 2}
+    targetObject: {fileID: 0}
+    positionOnGrid: {x: 0, y: 3, z: 0}
+    objectState: '{"itemDatas":[{"itemId":-1,"count":0},{"itemId":-1,"count":0},{"itemId":-1,"count":0},{"itemId":-1,"count":0},{"itemId":-1,"count":0},{"itemId":-1,"count":0},{"itemId":-1,"count":0},{"itemId":-1,"count":0},{"itemId":-1,"count":0},{"itemId":-1,"count":0},{"itemId":-1,"count":0},{"itemId":-1,"count":0},{"itemId":-1,"count":0},{"itemId":-1,"count":0},{"itemId":-1,"count":0},{"itemId":-1,"count":0},{"itemId":-1,"count":0},{"itemId":-1,"count":0},{"itemId":-1,"count":0},{"itemId":-1,"count":0},{"itemId":-1,"count":0},{"itemId":-1,"count":0},{"itemId":-1,"count":0},{"itemId":-1,"count":0},{"itemId":-1,"count":0},{"itemId":-1,"count":0},{"itemId":-1,"count":0},{"itemId":-1,"count":0},{"itemId":-1,"count":0},{"itemId":-1,"count":0},{"itemId":-1,"count":0},{"itemId":-1,"count":0},{"itemId":-1,"count":0},{"itemId":-1,"count":0},{"itemId":-1,"count":0},{"itemId":-1,"count":0}]}'
+  - placedItem: {fileID: 11400000, guid: 31ba6a5f3e76cf94aad0655e854adfd3, type: 2}
+    targetObject: {fileID: 0}
+    positionOnGrid: {x: 1, y: 3, z: 0}
+    objectState: '{"itemDatas":[{"itemId":-1,"count":0},{"itemId":-1,"count":0},{"itemId":-1,"count":0},{"itemId":-1,"count":0},{"itemId":-1,"count":0},{"itemId":-1,"count":0},{"itemId":-1,"count":0},{"itemId":-1,"count":0},{"itemId":-1,"count":0},{"itemId":-1,"count":0},{"itemId":-1,"count":0},{"itemId":-1,"count":0},{"itemId":-1,"count":0},{"itemId":-1,"count":0},{"itemId":-1,"count":0},{"itemId":-1,"count":0},{"itemId":-1,"count":0},{"itemId":-1,"count":0},{"itemId":-1,"count":0},{"itemId":-1,"count":0},{"itemId":-1,"count":0},{"itemId":-1,"count":0},{"itemId":-1,"count":0},{"itemId":-1,"count":0},{"itemId":-1,"count":0},{"itemId":-1,"count":0},{"itemId":-1,"count":0},{"itemId":-1,"count":0},{"itemId":-1,"count":0},{"itemId":-1,"count":0},{"itemId":-1,"count":0},{"itemId":-1,"count":0},{"itemId":-1,"count":0},{"itemId":-1,"count":0},{"itemId":-1,"count":0},{"itemId":-1,"count":0}]}'

@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f068c54aec9b1cb4f923694125ce0c42, type: 3}
+  m_Name: KnowReciples
+  m_EditorClassIdentifier: 
+  recipes:
+  - {fileID: 11400000, guid: 3d54d4c17ba99624fa5edd05e59597d0, type: 2}
+  - {fileID: 11400000, guid: 18f1c2bf2382c734bb42302fc955d469, type: 2}

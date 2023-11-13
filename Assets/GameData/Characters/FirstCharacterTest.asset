@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31771e8fddfbe1643be201522a7a15bb, type: 3}
+  m_Name: FirstCharacterTest
+  m_EditorClassIdentifier: 
+  Name: Karl
+  gender: 0
+  characterPrefab: {fileID: 0}
+  canBeRomanced: 1
+  romancableGender: 1
+  itemLikes: []
+  itemDislikes: []
+  generalDialogues:
+  - {fileID: 11400000, guid: 45b2005d1cab6264eb7c5d0e0032f140, type: 2}
+  - {fileID: 11400000, guid: 4a44a4e1d34ebe949bccecad4bc2404b, type: 2}
+  schedule: 

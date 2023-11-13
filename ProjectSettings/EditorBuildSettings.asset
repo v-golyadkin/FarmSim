@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/FarmScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/RoadScene.unity
+    guid: b9c9c6ff31903b64eb28152c352f0d2c
+  - enabled: 1
+    path: Assets/Scenes/CityScene.unity
+    guid: 8b3bbdda11ae7a64790c2bf5b90b8eaa
+  - enabled: 1
+    path: Assets/Scenes/FarmForestScene.unity
+    guid: 6caed6f53a2f0cb4bafd3fa93a014293
+  - enabled: 1
+    path: Assets/Scenes/MountainForestScene.unity
+    guid: e90217c1c0ca5df40b019c6174da0141
+  - enabled: 1
+    path: Assets/Scenes/CaveScene.unity
+    guid: 7c91cb075ae525e4686d88dca9212b42
+  - enabled: 1
+    path: Assets/Scenes/Essential.unity
+    guid: af5f17118ad2d4049b943357ac41703c
+  - enabled: 1
+    path: Assets/Scenes/MainMenuScene.unity
+    guid: 914eeee5aa7ecaf4a88a87e3bb0a5ef3
+  m_configObjects: {}
