@@ -15710,6 +15710,18 @@ PrefabInstance:
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4794799817208734343, guid: 65d20f97681696e42950985d6c3ac26f, type: 3}
+      propertyPath: targetPosition.x
+      value: 0.24
+      objectReference: {fileID: 0}
+    - target: {fileID: 4794799817208734343, guid: 65d20f97681696e42950985d6c3ac26f, type: 3}
+      propertyPath: targetPosition.y
+      value: -3.09
+      objectReference: {fileID: 0}
+    - target: {fileID: 4794799817208734343, guid: 65d20f97681696e42950985d6c3ac26f, type: 3}
+      propertyPath: targetPosition.z
+      value: -0.78309953
+      objectReference: {fileID: 0}
+    - target: {fileID: 4794799817208734343, guid: 65d20f97681696e42950985d6c3ac26f, type: 3}
       propertyPath: sceneNameToTransition
       value: MountainForestScene
       objectReference: {fileID: 0}
@@ -15805,6 +15817,18 @@ PrefabInstance:
     - target: {fileID: 4794799817208734343, guid: 65d20f97681696e42950985d6c3ac26f, type: 3}
       propertyPath: transitionType
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4794799817208734343, guid: 65d20f97681696e42950985d6c3ac26f, type: 3}
+      propertyPath: targetPosition.x
+      value: -9.4390335
+      objectReference: {fileID: 0}
+    - target: {fileID: 4794799817208734343, guid: 65d20f97681696e42950985d6c3ac26f, type: 3}
+      propertyPath: targetPosition.y
+      value: 6.416706
+      objectReference: {fileID: 0}
+    - target: {fileID: 4794799817208734343, guid: 65d20f97681696e42950985d6c3ac26f, type: 3}
+      propertyPath: targetPosition.z
+      value: 3.5911148
       objectReference: {fileID: 0}
     - target: {fileID: 4794799817208734343, guid: 65d20f97681696e42950985d6c3ac26f, type: 3}
       propertyPath: sceneNameToTransition

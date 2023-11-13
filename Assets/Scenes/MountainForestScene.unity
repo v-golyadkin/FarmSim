@@ -3367,7 +3367,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3378496564379543184, guid: 65d20f97681696e42950985d6c3ac26f, type: 3}
       propertyPath: m_Size.y
-      value: 3.3353539
+      value: 2.9964752
       objectReference: {fileID: 0}
     - target: {fileID: 3378496564379543184, guid: 65d20f97681696e42950985d6c3ac26f, type: 3}
       propertyPath: m_Offset.x
@@ -3375,11 +3375,23 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3378496564379543184, guid: 65d20f97681696e42950985d6c3ac26f, type: 3}
       propertyPath: m_Offset.y
-      value: -0.95684767
+      value: -1.126287
       objectReference: {fileID: 0}
     - target: {fileID: 4794799817208734343, guid: 65d20f97681696e42950985d6c3ac26f, type: 3}
       propertyPath: transitionType
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4794799817208734343, guid: 65d20f97681696e42950985d6c3ac26f, type: 3}
+      propertyPath: targetPosition.x
+      value: -6.77
+      objectReference: {fileID: 0}
+    - target: {fileID: 4794799817208734343, guid: 65d20f97681696e42950985d6c3ac26f, type: 3}
+      propertyPath: targetPosition.y
+      value: 16.71
+      objectReference: {fileID: 0}
+    - target: {fileID: 4794799817208734343, guid: 65d20f97681696e42950985d6c3ac26f, type: 3}
+      propertyPath: targetPosition.z
+      value: -0.7815346
       objectReference: {fileID: 0}
     - target: {fileID: 4794799817208734343, guid: 65d20f97681696e42950985d6c3ac26f, type: 3}
       propertyPath: sceneNameToTransition

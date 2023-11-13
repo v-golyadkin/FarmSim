@@ -196,6 +196,18 @@ PrefabInstance:
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4794799817208734343, guid: 65d20f97681696e42950985d6c3ac26f, type: 3}
+      propertyPath: targetPosition.x
+      value: -9.88
+      objectReference: {fileID: 0}
+    - target: {fileID: 4794799817208734343, guid: 65d20f97681696e42950985d6c3ac26f, type: 3}
+      propertyPath: targetPosition.y
+      value: -16.144745
+      objectReference: {fileID: 0}
+    - target: {fileID: 4794799817208734343, guid: 65d20f97681696e42950985d6c3ac26f, type: 3}
+      propertyPath: targetPosition.z
+      value: -0.016614437
+      objectReference: {fileID: 0}
+    - target: {fileID: 4794799817208734343, guid: 65d20f97681696e42950985d6c3ac26f, type: 3}
       propertyPath: sceneNameToTransition
       value: CityScene
       objectReference: {fileID: 0}
